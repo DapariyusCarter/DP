@@ -1,0 +1,23 @@
+h1 {
+    color:blue;
+}
+.mainwebsite {
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+    text-align: center;
+}
+
+.movies {
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    text-align: left;
+}
+ 
+.favmovies {
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: teal;
+    text-align: left;
+}
